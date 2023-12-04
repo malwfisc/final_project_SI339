@@ -3,7 +3,7 @@ function toggleFavorite(star) {
 }
 
 function mDown(obj) {
-    obj.src = "../images/mel_2.jpg";
+    obj.src = "../final_project_SI339/images/mel_2.jpg";
   }
   
 function mUp(obj) {
