@@ -7,5 +7,5 @@ function mDown(obj) {
   }
   
 function mUp(obj) {
-    obj.src = "../final_project_SI339/images/mel.jpg";
+    obj.src = "../final_project_SI339/images/mel_2.jpg";
   }
