@@ -22,7 +22,7 @@ header{
     padding: 30px 5px 30px 5px;
     margin: 10px 0px 20px 0px;
     color: white;
-    background-image: url(/images/background_books.jpg);
+    background-image: url(images/background_books.jpg);
     background-size: cover;
     background-color: #5B9678;
 }
@@ -61,7 +61,7 @@ nav #current {
   }
 
 .audio{
-    background-image: url(/images/background_audio.png);
+    background-image: url(../images/background_audio.png);
     /* https://yourghostproduction.com/wp-content/uploads/2023/07/callmewhatever_image_for_this_article__How_to_Start_a_Record_L_9b733bbf-f307-45dd-9c00-b42858f5bda5.png */
     background-position-y: center;
 }
