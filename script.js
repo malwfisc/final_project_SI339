@@ -3,9 +3,10 @@ function toggleFavorite(star) {
 }
 
 function mDown(obj) {
-    obj.src = "../../images/mel_2.jpg";
-    obj.src = "../images/mel_2.jpg";
+    obj.src = "mel_2.jpg";
   }
+
+//   "../images/mel_2.jpg"; "../../images/mel_2.jpg"; "images/mel.jpg";
   
 function mUp(obj) {
     obj.src = "images/mel.jpg";
